@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./Styles/login.css"/>
+    <script src="https://kit.fontawesome.com/c8503353a1.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Damion&family=Poppins&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- navbar  -->
+
+    <nav id="navbar">
+        <input type="checkbox" id="check">
+        <label for="check" class="checkbtn">
+            <i class="fas fa-bars"></i>
+        </label>
+        <div class="logo">
+            <img src=https://tralive-web.netlify.app/static/media/Tralive.9c6b7461ee98783f592e.png alt="logo" />
+            <p id="logo">
+              Tra<span class="logo1">live</span>
+            </p>
+        </div>
+
+        <div class="div3">
+            <input id="search" type="search" placeholder="Search"/>
+        </div>
+        
+        <ul id="div2">
+            <i class="fa-solid fa-pencil"></i>
+            <li><a href="review.html">Review</a></li>
+
+            <i class="fa-solid fa-heart"></i>
+            <li><a href="trip.html">Trip</a></li>
+
+
+            <i class="fa-solid fa-bell"></i>
+            <li><a href="alert.html">Alert</a></li>
+
+            <li id="navbtn"><a id="an" href="./login.html">LogIn</a></li>
+
+            <i class="fa-solid fa-cart-shopping"></i>
+            <li><a href="cart.html">Basket</a></li>
+        </ul>
+    </nav>
+    <section></section>
+
+
+    <!-- login page -->
+
+
+    <div id="login">
+        <img src="https://tralive-web.netlify.app/static/media/Tralive.9c6b7461ee98783f592e.png"/>
+        <p>LogIn to unlock the</p>
+        <p>best of Tralive.</p>
+
+        <form class="login">
+            
+            <input type="email" placeholder="Enter Your Email ID" id="email"/>
+            <input type="password" placeholder="Enter Your Password" id="password"/>
+            <input type="submit" value="Log in" id="login_btn">
+
+        </form>
+        
+        <div id="inst">
+            <p>New customer? <a href="signup.html">create account</a></p> 
+            <p>By proceeding, you agree to our <u>Terms of Use</u> and confirm you have read our <u>Privacy and Cookie Statement</u>.</p>
+            <p>This site is protected by reCAPTCHA and the Google <u>Privacy Policy</u> and <u>Terms of Service</u> apply.</p>
+        </div>
+        
+    </div>
+
+    <!-- footer -->
+
+
+    <div id="footer">
+        <div>
+            <div id="leftfooter">
+                <img src="https://tralive-web.netlify.app/static/media/Tralive.9c6b7461ee98783f592e.png"/>
+                <div>
+                    <p>© 2022 Tripadvisor LLC All rights reserved.</p>
+                    <div id="flex1">
+                        <u>Terms of Use</u>
+                        <u>Privacy and Cookie Statement</u>
+                        <u>Cookie consent</u>
+                        <u>Site Map</u>
+                    </div>
+                    <div id="flex2">
+                        <u>How this Site Works</u>
+                        <u>Contact us</u>
+                    </div>
+                </div>
+            </div>
+            <div id="rightfooter">
+                <select >
+                    <option >₹ INR</option>
+                    <option >JP¥ Japanese Yen</option>
+                    <option >$ U.S.Dollors</option>
+                    <option >€ Euros</option>
+                </select>
+                <select >
+                    <option >India</option>
+                    <option >Japan</option>
+                    <option >United states</option>
+                    <option >Canada</option>
+                </select>
+            </div>
+        </div>
+        <p>This is the version of our website addressed to speakers of English in India. If you are a resident of another country or region, please select the appropriate version of Tripadvisor for your country or region in the drop-down menu. more</p>
+    </div>
+</body>
+</html>
+<script src="./Script/login.js"></script>

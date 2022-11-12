@@ -6,7 +6,7 @@ var hotels=[
       "price": 4998,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d23656906-Reviews-AR_Suites_Jewels_Royale-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "10 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/vinayhpanjabi",
@@ -19,7 +19,7 @@ var hotels=[
       "extra-snippet": "Suites Jewels, Pune. Staffs are very friendly and polite. The food was absolutely excellent! Thank you for an unforgettable experience, i will definitely be back!",
       "ui_ribbon 2": "",
       "hRjIT": "",
-      "message2": "Reserve now, pay at stay",
+      "message2": "✔ Reserve now, pay at stay",
       "vendorInner": "",
       "price2": "",
       "vendorInner2": "",
@@ -41,7 +41,7 @@ var hotels=[
       "price": 4591,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d1170606-Reviews-The_Central_Park_Hotel-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "2,022 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/Sameer_Salunkhe",
@@ -54,7 +54,7 @@ var hotels=[
       "extra-snippet": "Excellent",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": 2022,
-      "message2": "Reserve now, pay at stay",
+      "message2": "✔ Reserve now, pay at stay",
       "vendorInner": "Agoda.com",
       "price2": "₹2,587",
       "vendorInner2": "EaseMyTrip",
@@ -76,7 +76,7 @@ var hotels=[
       "price": 10383,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d619336-Reviews-The_Corinthians_Resort_Club-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "2,455 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/anshulmandloi1",
@@ -89,7 +89,7 @@ var hotels=[
       "extra-snippet": "Our family stay here wa really Amazing Hotel is winderful ..good",
       "ui_ribbon 2": "All Inclusive",
       "hRjIT": "",
-      "message2": "Reserve now, pay at stay",
+      "message2": "✔ Reserve now, pay at stay",
       "vendorInner": "MakeMyTrip",
       "price2": "₹10,383",
       "vendorInner2": "Trip.com",
@@ -124,7 +124,7 @@ var hotels=[
       "extra-snippet": "everything Delicious food with experts Greetings to all staff , Lalit and chef Mayur and Pallavi.",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": 2022,
-      "message2": "",
+      "message2": " ",
       "vendorInner": "Booking.com",
       "price2": "₹8,188",
       "vendorInner2": "MakeMyTrip",
@@ -146,7 +146,7 @@ var hotels=[
       "price": 7840,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d1026273-Reviews-Royal_Orchid_Central_Pune-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "1,555 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/Shreemf",
@@ -159,7 +159,7 @@ var hotels=[
       "extra-snippet": "A great deal of importance is given to cleanliness, comfort and timeliness,",
       "ui_ribbon 2": "All Inclusive",
       "hRjIT": 2022,
-      "message2": "Reserve now, pay at stay",
+      "message2": "✔ Reserve now, pay at stay",
       "vendorInner": "Agoda.com",
       "price2": "₹4,657",
       "vendorInner2": "Vio.com",
@@ -181,7 +181,7 @@ var hotels=[
       "price": 6048,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d1866256-Reviews-Hyatt_Pune-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "3,300 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/Manish199113",
@@ -194,7 +194,7 @@ var hotels=[
       "extra-snippet": "Great service from hyatt also staff support very well and food is great also",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": "",
-      "message2": "Reserve now, pay at stay",
+      "message2":"✔ Reserve now, pay at stay",
       "vendorInner": "Agoda.com",
       "price2": "₹6,048",
       "vendorInner2": "Vio.com",
@@ -216,7 +216,7 @@ var hotels=[
       "price": 3911,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d676651-Reviews-Royal_Orchid_Golden_Suites-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "1,019 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/seemaningthoujam27",
@@ -229,7 +229,7 @@ var hotels=[
       "extra-snippet": "This is a world class hotel , with best",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": "",
-      "message2": "",
+      "message2":  " ",
       "vendorInner": "Booking.com",
       "price2": "₹4,283",
       "vendorInner2": "Vio.com",
@@ -251,7 +251,7 @@ var hotels=[
       "price": 5040,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d1986489-Reviews-Cocoon_Hotel-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "270 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/553mangeshj",
@@ -264,7 +264,7 @@ var hotels=[
       "extra-snippet": "comfort...... really great reception...the way they took care of everything....the tiniest of comforts were fulfilled...from hair oil to laundry to everything else.......",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": 2022,
-      "message2": "Reserve now, pay at stay",
+      "message2":"✔ Reserve now, pay at stay",
       "vendorInner": "MakeMyTrip",
       "price2": "₹4,962",
       "vendorInner2": "Agoda.com",
@@ -286,7 +286,7 @@ var hotels=[
       "price": 5133,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda.com",
-      "message": "",
+      "message": " ",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d16831625-Reviews-Lemon_Tree_Hotel_Viman_Nagar_Pune-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "197 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/148muskank",
@@ -299,7 +299,7 @@ var hotels=[
       "extra-snippet": "It’s fantastic,",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": 2022,
-      "message2": "",
+      "message2":  " ",
       "vendorInner": "Booking.com",
       "price2": "₹7,984",
       "vendorInner2": "MakeMyTrip",
@@ -321,7 +321,7 @@ var hotels=[
       "price": 5320,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d17567074-Reviews-7_Apple_Hotel_Viman_Nagar-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "169 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/Harshv59123",
@@ -334,7 +334,7 @@ var hotels=[
       "extra-snippet": "Im stayed",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": 2022,
-      "message2": "Reserve now, pay at stay",
+      "message2":  "✔ Reserve now, pay at stay",
       "vendorInner": "Agoda.com",
       "price2": "₹3,830",
       "vendorInner2": "MakeMyTrip",
@@ -356,7 +356,7 @@ var hotels=[
       "price": 8400,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d1785068-Reviews-Fort_JadhavGADH_A_Gadh_Heritage_Hotel-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "1,461 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/sumanasg",
@@ -369,7 +369,7 @@ var hotels=[
       "extra-snippet": "Maharaja",
       "ui_ribbon 2": "All Inclusive",
       "hRjIT": 2022,
-      "message2": "Reserve now, pay at stay",
+      "message2": "✔ Reserve now, pay at stay",
       "vendorInner": "Agoda.com",
       "price2": "₹8,400",
       "vendorInner2": "Vio.com",
@@ -391,7 +391,7 @@ var hotels=[
       "price": 5039,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d1485704-Reviews-Ibis_Pune_Viman_Nagar-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "1,456 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/674virenj",
@@ -404,7 +404,7 @@ var hotels=[
       "extra-snippet": "Great surprise on my return with brilliant decoration",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": "",
-      "message2": "",
+      "message2": " ",
       "vendorInner": "Booking.com",
       "price2": "₹5,039",
       "vendorInner2": "Trip.com",
@@ -426,7 +426,7 @@ var hotels=[
       "price": 9912,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d1845692-Reviews-Hyatt_Regency_Pune_Residences-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "2,993 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/sindhianmol93",
@@ -439,7 +439,7 @@ var hotels=[
       "extra-snippet": "cleanness and good quality of food also best service all receptionist and guides are so soft and helping hand i enjoyed a lot during my stay Thank you Hyatt i enjoyed a lot...",
       "ui_ribbon 2": "",
       "hRjIT": 2022,
-      "message2": "Reserve now, pay at stay",
+      "message2": "✔ Reserve now, pay at stay",
       "vendorInner": "Agoda.com",
       "price2": "₹9,912",
       "vendorInner2": "Trip.com",
@@ -461,7 +461,7 @@ var hotels=[
       "price": 5712,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d5600236-Reviews-Novotel_Pune_Nagar_Road-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "2,130 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/AbhishekDutt01",
@@ -474,7 +474,7 @@ var hotels=[
       "extra-snippet": "It was really a great experience at Novotel Pune..the staff is very approachable, food is excellent.. the rooms are very clean and well maintained..",
       "ui_ribbon 2": "",
       "hRjIT": 2022,
-      "message2": "Reserve now, pay at stay",
+      "message2": "✔ Reserve now, pay at stay",
       "vendorInner": "Agoda.com",
       "price2": "₹5,712",
       "vendorInner2": "Vio.com",
@@ -496,7 +496,7 @@ var hotels=[
       "price": 6187,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d2622273-Reviews-Ramee_Grand_Hotel_Pune-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "417 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/55nithyah",
@@ -509,7 +509,7 @@ var hotels=[
       "extra-snippet": "priced food.",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": 2022,
-      "message2": "Reserve now, pay at stay",
+      "message2": "✔ Reserve now, pay at stay",
       "vendorInner": "Agoda.com",
       "price2": "₹4,682",
       "vendorInner2": "Trip.com",
@@ -531,7 +531,7 @@ var hotels=[
       "price": 13570,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d15355229-Reviews-Fazlani_Natures_Nest-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "220 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/equineharshad",
@@ -544,7 +544,7 @@ var hotels=[
       "extra-snippet": "",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": 2022,
-      "message2": "",
+      "message2": " ",
       "vendorInner": "Booking.com",
       "price2": "₹13,570",
       "vendorInner2": "Vio.com",
@@ -566,7 +566,7 @@ var hotels=[
       "price": 10619,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d6678490-Reviews-Oxford_Golf_Resort-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "240 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/TooshMan",
@@ -579,7 +579,7 @@ var hotels=[
       "extra-snippet": "... area , library , golf , badminton , squash , kids room Highlights - definitely the golf view Beautiful sight with",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": 2022,
-      "message2": "",
+      "message2": " ",
       "vendorInner": "",
       "price2": "",
       "vendorInner2": "",
@@ -601,7 +601,7 @@ var hotels=[
       "price": 4940,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda.com",
-      "message": "",
+      "message": "✔ ",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d1043544-Reviews-St_Laurn_Koregaon_Park-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "1,060 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/229shridharb",
@@ -614,7 +614,7 @@ var hotels=[
       "extra-snippet": "The hotel is road side, it's a good connectivity also, ambience",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": 2022,
-      "message2": "",
+      "message2":  " ",
       "vendorInner": "Booking.com",
       "price2": "₹6,552",
       "vendorInner2": "MakeMyTrip",
@@ -636,7 +636,7 @@ var hotels=[
       "price": 3359,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "",
+      "message": " ",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d6912297-Reviews-Magnus_Star_Residency-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "93 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/Ishani18",
@@ -649,7 +649,7 @@ var hotels=[
       "extra-snippet": "was a business trip. This hotel is located at a Prime location, at a distance of about 15-20 mins from Phoenix market city which has got some really great pubs…",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": "",
-      "message2": "Reserve now, pay at stay",
+      "message2":"✔ Reserve now, pay at stay",
       "vendorInner": "Agoda.com",
       "price2": "₹2,014",
       "vendorInner2": "Hotels.com",
@@ -671,7 +671,7 @@ var hotels=[
       "price": 12095,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d305515-Reviews-Blue_Diamond_IHCL_SeleQtions-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "1,850 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/kuheli2015",
@@ -684,7 +684,7 @@ var hotels=[
       "extra-snippet": "Brilliant",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": 2022,
-      "message2": "Reserve now, pay at stay",
+      "message2": "✔ Reserve now, pay at stay",
       "vendorInner": "Agoda.com",
       "price2": "₹11,827",
       "vendorInner2": "MakeMyTrip",
@@ -706,7 +706,7 @@ var hotels=[
       "price": 2340,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "",
+      "message": "✔ ",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d12251741-Reviews-StayBird_Icon_Bliss_Kharadi-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "17 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/Dhamu20395",
@@ -719,7 +719,7 @@ var hotels=[
       "extra-snippet": "location and offers everything be it Room supplies ,Complimentary breakfast,prompt services at front desk and restaurant.The bed linen are fresh and ready to…",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": "",
-      "message2": "Reserve now, pay at stay",
+      "message2": "✔ Reserve now, pay at stay",
       "vendorInner": "MakeMyTrip",
       "price2": "₹1,963",
       "vendorInner2": "",
@@ -741,7 +741,7 @@ var hotels=[
       "price": 3149,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d633953-Reviews-The_Oakwood-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "87 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/anuandnageshn",
@@ -754,7 +754,7 @@ var hotels=[
       "extra-snippet": "Hotel Okwood, near Deccan Gymkhana, Pune. \n.\n\nStrategically located best hotel, clean rooms with all basic amenities, good service by friendly and courteous staff...",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": "",
-      "message2": "",
+      "message2": " ",
       "vendorInner": "MakeMyTrip",
       "price2": "₹3,745",
       "vendorInner2": "Vio.com",
@@ -776,7 +776,7 @@ var hotels=[
       "price": 13570,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d15355229-Reviews-Fazlani_Natures_Nest-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "220 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/equineharshad",
@@ -789,7 +789,7 @@ var hotels=[
       "extra-snippet": "",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": 2022,
-      "message2": "",
+      "message2": " ",
       "vendorInner": "",
       "price2": "",
       "vendorInner2": "",
@@ -811,7 +811,7 @@ var hotels=[
       "price": 3266,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d6116989-Reviews-Grand_Exotica_Business_Hotel-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "196 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/sjjohnson-28",
@@ -824,7 +824,7 @@ var hotels=[
       "extra-snippet": "nice hotel for food,room service &ambiance food quality is good room service is excellent by captain amol great experience,lobby aria is also nice.",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": 2022,
-      "message2": "",
+      "message2":  " ",
       "vendorInner": "EaseMyTrip",
       "price2": "₹3,734",
       "vendorInner2": "Hotels.com",
@@ -846,7 +846,7 @@ var hotels=[
       "price": 5185,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d1563533-Reviews-Hotel_Parc_Estique-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "649 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/garybuseythedog",
@@ -859,7 +859,7 @@ var hotels=[
       "extra-snippet": "",
       "ui_ribbon 2": "All Inclusive",
       "hRjIT": "",
-      "message2": "",
+      "message2":  " ",
       "vendorInner": "Booking.com",
       "price2": "₹5,309",
       "vendorInner2": "MakeMyTrip",
@@ -881,7 +881,7 @@ var hotels=[
       "price": 2204,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d574401-Reviews-The_Centurion_Hotel-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "161 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/MukeshSingh",
@@ -894,7 +894,7 @@ var hotels=[
       "extra-snippet": "stayed in this hotel for three days. Nothing much to write about this hotel. It is a decent hotel. Not bad. Food was okay. I did not enjoyed the over all staying but…",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": "",
-      "message2": "",
+      "message2":  " ",
       "vendorInner": "MakeMyTrip",
       "price2": "₹3,219",
       "vendorInner2": "EaseMyTrip",
@@ -916,7 +916,7 @@ var hotels=[
       "price": 4800,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "",
+      "message": " ",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d1205399-Reviews-Green_Gate_Resort-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "117 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/TravelBabaPune",
@@ -929,7 +929,7 @@ var hotels=[
       "extra-snippet": "We had",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": "",
-      "message2": "Reserve now, pay at stay",
+      "message2": "✔ Reserve now, pay at stay",
       "vendorInner": "MakeMyTrip",
       "price2": "₹4,672",
       "vendorInner2": "Agoda.com",
@@ -951,7 +951,7 @@ var hotels=[
       "price": 5151,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d6681045-Reviews-Tarawade_Clarks_Inn_Pune-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "74 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/Exim23",
@@ -964,7 +964,7 @@ var hotels=[
       "extra-snippet": "in time. Cleaning and all the things. Especially food was very good. I would love to be at Tarawade clark inn again.The staff is very friendly and helpful.",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": "",
-      "message2": "Reserve now, pay at stay",
+      "message2": "✔ Reserve now, pay at stay",
       "vendorInner": "Agoda.com",
       "price2": "₹3,704",
       "vendorInner2": "Trip.com",
@@ -986,7 +986,7 @@ var hotels=[
       "price": 3335,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d736482-Reviews-FabHotel_Shivajinagar-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "90 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/srihema2",
@@ -999,7 +999,7 @@ var hotels=[
       "extra-snippet": "front office team is warm and polite.\nThey are upfront and open. \nBeds are comfortable and the linen needs to be cleaned appropriately. Coffee is really Good. Value…",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": "",
-      "message2": "",
+      "message2":  " ",
       "vendorInner": "",
       "price2": "",
       "vendorInner2": "",
@@ -1021,7 +1021,7 @@ var hotels=[
       "price": 3359,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda.com",
-      "message": "",
+      "message": " ",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d16720139-Reviews-Magnus_Square-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "24 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/SURAJSMILE",
@@ -1034,7 +1034,7 @@ var hotels=[
       "extra-snippet": "very close to Airport (5 mins by car - w/o traffic). \n- Decent Parking space is available for cars as well as 2-wheelers\n- Hotel as well as rooms are very neat...",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": "",
-      "message2": "",
+      "message2":  " ",
       "vendorInner": "Trip.com",
       "price2": "₹2,995",
       "vendorInner2": "Hotels.com",
@@ -1056,7 +1056,7 @@ var hotels=[
       "price": 5823,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d1092010-Reviews-O_Hotel_Pune-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "1,075 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/dvdreumel",
@@ -1069,7 +1069,7 @@ var hotels=[
       "extra-snippet": "hall was spacious and well decorated. We had vegetarian food and found this very good taste wise. All in all a good experience. Thanks to covid some of the areas were...",
       "ui_ribbon 2": "",
       "hRjIT": 2022,
-      "message2": "Reserve now, pay at stay",
+      "message2":  "✔ Reserve now, pay at stay",
       "vendorInner": "Trip.com",
       "price2": "₹5,749",
       "vendorInner2": "Vio.com",
@@ -1091,7 +1091,7 @@ var hotels=[
       "price": 733,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d4004419-Reviews-OYO_Flagship_307_Hotel_Kamini-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "8 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/paavans",
@@ -1104,7 +1104,7 @@ var hotels=[
       "extra-snippet": "and Bathroom Were Good, Cleaning and reception service was good, but room service to late, Resturant is Big Disappointment, They serve tea and breakfast on the...",
       "ui_ribbon 2": "",
       "hRjIT": "",
-      "message2": "Reserve now, pay at stay",
+      "message2":  "✔ Reserve now, pay at stay",
       "vendorInner": "Agoda.com",
       "price2": "₹887",
       "vendorInner2": "Trip.com",
@@ -1126,7 +1126,7 @@ var hotels=[
       "price": 1210,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d4005076-Reviews-Maurya_Residency-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "11 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/Kunal6689",
@@ -1139,7 +1139,7 @@ var hotels=[
       "extra-snippet": "while attending wedding function of a friend. The hotel is situated centrally but in a noisy location. The rooms are average and room service was bit slow. Overall…",
       "ui_ribbon 2": "",
       "hRjIT": "",
-      "message2": "",
+      "message2": " ",
       "vendorInner": "Booking.com",
       "price2": "₹1,512",
       "vendorInner2": "goibibo.com",
@@ -1161,7 +1161,7 @@ var hotels=[
       "price": 1096,
       "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
       "provider_text": "Booking.com",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d1151665-Reviews-OYO_Collection_O_80421_Hotel_Pearl-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "10 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/Prasunmed",
@@ -1174,7 +1174,7 @@ var hotels=[
       "extra-snippet": "location. It is just near statue of Maharashtra king. \n\nStaff was not helpful. There was a error of my booking. Never believe on that oyo. I had very bad experience…",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": "",
-      "message2": "Reserve now, pay at stay",
+      "message2":  "✔ Reserve now, pay at stay",
       "vendorInner": "Agoda.com",
       "price2": "₹1,096",
       "vendorInner2": "",
@@ -1196,7 +1196,7 @@ var hotels=[
       "price": 7056,
       "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
       "provider_text": "Agoda",
-      "message": "Free cancellation",
+      "message": "✔ Free cancellation",
       "ui_bubble_rating href": "https://www.tripadvisor.in/Hotel_Review-g297654-d1151547-Reviews-Ketan_Hotel-Pune_Pune_District_Maharashtra.html#REVIEWS",
       "review_count": "97 reviews",
       "BMQDV href": "https://www.tripadvisor.in/Profile/SavvyLibrarian",
@@ -1209,7 +1209,7 @@ var hotels=[
       "extra-snippet": "natural light.",
       "ui_ribbon 2": "Breakfast included",
       "hRjIT": "",
-      "message2": "",
+      "message2":  " ",
       "vendorInner": "",
       "price2": "",
       "vendorInner2": "",
@@ -1225,14 +1225,20 @@ var hotels=[
       "label href": ""
     }
   ]
-
+  var cartArr = JSON.parse(localStorage.getItem("cartItems")) || [];
   localStorage.setItem("hoteldata",JSON.stringify(hotels));
+  var h5 = document.getElementById("h5");
+  var bag = [];
 
+  const appendData = (hotels,where,value)=>{
+  where.innerHTML=null;
   hotels.map(function(elem,index,array){
 
     var maindiv = document.createElement("div");
+    maindiv.setAttribute("id","maindiv")
 
     var imgdiv = document.createElement("div");
+    imgdiv.setAttribute("class","imgdiv");
 
     var image = document.createElement("img");
     image.setAttribute("src",elem.image);
@@ -1240,22 +1246,31 @@ var hotels=[
     imgdiv.append(image);
 
     var datadiv = document.createElement("div");
+    datadiv.setAttribute("id","datadiv");
     
     var name = document.createElement("p");
     name.innerText=elem.property_title;
+    name.setAttribute("id","name");
 
     var bunchdiv = document.createElement("div");
+    bunchdiv.setAttribute("id","bunchdiv");
 
     var cartdiv = document.createElement("div");
+    cartdiv.setAttribute("class","cartdiv");
 
     var logo = document.createElement("img");
-    imgdiv.setAttribute("src",elem.logo);
+    logo.setAttribute("src",elem.logo);
+
 
     var price = document.createElement("p");
     price.innerText="₹"+elem.price;
 
     var btn = document.createElement("button");
-    btn.innerText="Book Hotel";
+    btn.innerText="Book";
+
+        btn.addEventListener("click", function () {
+            addToCart(elem);
+        });
 
     var cancel = document.createElement("p");
     cancel.innerText=elem.message;
@@ -1266,6 +1281,7 @@ var hotels=[
     cartdiv.append(logo,price,btn,cancel,reserve);
 
     var pricediv = document.createElement("div");
+    pricediv.setAttribute("class","pricediv")
 
     var web1 = document.createElement("p");
     web1.innerText=elem.vendorInner;
@@ -1291,6 +1307,7 @@ var hotels=[
     pricediv.append(web1,price1,web2,price2,web3,price3,deal);
 
     var reviewdiv=document.createElement("div");
+    reviewdiv.setAttribute("class","reviewdiv");
     
     var review = document.createElement("p");
     review.innerText=elem.review_count;
@@ -1300,14 +1317,29 @@ var hotels=[
 
     // var review = document.createElement("p");
     // review.innerText=elem.review_count;
+    var wifidiv = document.createElement("div");
+    wifidiv.setAttribute("class","wifidiv");
 
     var wifi = document.createElement("p");
-    wifi.innerText="Wifi";
+    wifi.innerText=" Wifi";
+
+    var wifisym = document.createElement("i")
+    wifisym.setAttribute("class","fa-solid fa-wifi");
+
+    wifidiv.append(wifisym,wifi);
+
+    var park = document.createElement("div");
+    park.setAttribute("class","wifidiv");
 
     var Free_Parking = document.createElement("p");
     Free_Parking.innerText="Free Parking";
 
-    reviewdiv.append(review,rev1,wifi,Free_Parking);
+    var parksys = document.createElement("i")
+    parksys.setAttribute("class","fa-solid fa-square-parking");
+    
+    park.append(parksys,Free_Parking);
+
+    reviewdiv.append(review,rev1,wifidiv,park);
 
     bunchdiv.append(cartdiv,pricediv,reviewdiv);
 
@@ -1315,9 +1347,101 @@ var hotels=[
 
     maindiv.append(imgdiv,datadiv);
 
-    document.querySelector("#h5").append(maindiv);
+    where.append(maindiv);
 
   })
+  };
+  bag=hotels;
+  appendData(hotels,h5,1);
+
+function addToCart(elem) {
+  if(cartArr.includes(elem)){
+    alert("Already added to cart");
+  }
+  else{
+    console.log(elem);
+    elem.quant=1;
+    cartArr.push(elem);
+    console.log(cartArr);
+    localStorage.setItem("cartItems",JSON.stringify(cartArr));
+    alert("Added to cart Sucessfully");
+  }
+    
+}
+
+// search
+
+function search(){
+  let q = document.querySelector("#search").value;
+  console.log(q);
+  let newData = bag.filter(function (elem){
+    return elem.name.toLowerCase().includes(q.toLowerCase());
+  })
+  console.log(newData);
+  appendData(newData,h5);
+
+}
+
+const sortItems=()=>{
+  let sorting=document.getElementById("sorthotel").value;
+ 
+  if(sorting=="h2l"){
+    hotels.sort((a,b)=>{
+          return b.price - a.price;
+      });
+      appendData(hotels,h5,1);
+  }
+  if(sorting=="l2h"){
+    hotels.sort((a,b)=>{
+          return a.price-b.price;
+      });
+      appendData(hotels,h5,1);
+  }
+  else{
+    appendData(hotels,h5,1);
+  }
+ }
 
 
+
+  // map
+
+
+//src="https://maps.google.com/maps?q=&t=&z=13&ie=UTF8&iwloc=&output=embed"
+
+//https://api.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid={API key}
+
+//api.openweathermap.org/data/2.5/forecast/daily?lat={lat}&lon={lon}&cnt={cnt}&appid={API key}
+
+// let container = document.getElementById("map");
+
+
+// async function exactLocation(city){
+//     try {
+//         // let city = document.getElementsById("city").value;
+//     let res = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=pune&appid=71138b85b132643a6b22f3e21a29194a&units=metric`);
+
+//   let data = await res.json();
+//   appendData(data);
+//   console.log("data;",data);
+//   } catch (err){
+//     console.log("err:",err);
+//  }
+
+// }
+
+// function appendData(data){
+   
+//     container.innerHTML = null;
+//   var mapdiv = document.createElement("div");
+//   mapdiv.id = "mapdiv";
+
+//   var iframe = document.createElement("iframe");
+//   iframe.src = `https://maps.google.com/maps?q=pune&t=&z=13&ie=UTF8&iwloc=&output=embed`;
+
+//   container.append(mapdiv);
+//   mapdiv.append(iframe);
+//   document.querySelector("#map").append(mapdiv);
+
+// }
 

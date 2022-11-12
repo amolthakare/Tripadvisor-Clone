@@ -18,6 +18,16 @@
   text-align: center;
   background-color: white;
 }
+#heading > button > a{
+  text-decoration: none;
+  color: black;
+  /* background-color: white; */
+}
+#heading > button:hover > a{
+  text-decoration: none;
+  color: white;
+  /* background-color: white; */
+}
 #heading > button:hover{
   color: white;
   background-color: black;
@@ -235,7 +245,9 @@
 
 /* navbar , footer */
 /* logo */
-
+#navbar>a{
+  text-decoration: none;
+}
 #logo{
   font-size: 30px;
   font-weight: bold;

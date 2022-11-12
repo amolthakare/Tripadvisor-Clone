@@ -3,7 +3,9 @@
 /* navbar */
 
 /* logo */
-
+#navbar>a{
+  text-decoration: none;
+}
 #logo{
   font-size: 30px;
   font-weight: bold;

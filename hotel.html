@@ -5,13 +5,200 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./Styles/hotel.css"
+    <link rel="stylesheet" href="./Styles/hotel.css"/>
+    <script src="https://kit.fontawesome.com/c8503353a1.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Damion&family=Poppins&display=swap" rel="stylesheet">
+    
 </head>
 <body>
-    <div id="h1">
-        <div id="h2">
+    <nav id="navbar">
+        <input type="checkbox" id="check">
+        <label for="check" class="checkbtn">
+            <i class="fas fa-bars"></i>
+        </label>
+        <a href="./index.html">
+            <div class="logo">
+                <img src=https://tralive-web.netlify.app/static/media/Tralive.9c6b7461ee98783f592e.png alt="logo" />
+                <p id="logo">
+                  Tra<span class="logo1">live</span>
+                </p>
+            </div>
+          </a>
 
+        <div class="div3">
+            <input id="search" type="search" placeholder="Search" onchange="search()"/>
         </div>
+        
+        <ul id="div2">
+            <i class="fa-solid fa-pencil"></i>
+            <li><a href="review.html">Review</a></li>
+
+            <i class="fa-solid fa-heart"></i>
+            <li><a href="trip.html">Trip</a></li>
+
+
+            <i class="fa-solid fa-bell"></i>
+            <li><a href="alert.html">Alert</a></li>
+
+            <li id="navbtn"><a id="an" href="./login.html">LogIn</a></li>
+
+            <i class="fa-solid fa-cart-shopping"></i>
+            <li><a href="cart.html">Basket</a></li>
+        </ul>
+    </nav>
+    <section></section>
+
+    <!-- data page -->
+
+
+    <div id="h1">
+        
+    <div id="h2">
+        <div id="corner">
+            <div id="container">
+                <iframe src="https://maps.google.com/maps?q=pune&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
+            </div>
+            <h3>COVID-19</h3>                                                     
+            <hr>
+            <div id="firstsort">                                                
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>properties taking safety measures</div>
+                </div>
+            </div>
+            <br>
+            <!-- second -->
+            <h3>Deals</h3>
+            <hr>
+            <div id="firstsort">
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Reserve now, pay at stay</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Free Cancellation</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Properties with special offers </div>
+                </div>
+            </div>
+            <br>
+            <!-- third -->
+            <h3>Property Type</h3>
+            <hr>
+            <div id="firstsort">
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Hotels </div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Guest Houses </div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Lodges</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Speciality Lodgings</div>
+                </div> 
+            </div>
+            <br>
+            <!-- fourth -->
+            <h3>Popular</h3>
+            <hr>
+            <div id="firstsort">
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>5 Stars</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Breakfast Included</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>4 and Above Stars</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Romantic</div>
+                </div>               
+            </div>
+            <br>
+            <!-- fifth -->
+            <h3>Amenities            </h3>
+            <hr>
+            <div id="firstsort">
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Free Wifi</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Breakfast Included</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Pool</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Free Parking</div>
+                </div>                
+            </div>
+            <br>
+            <!-- six -->
+            <h3>Hotel Class</h3>
+            <hr>
+            <div id="firstsort">
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>5 Stars</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>4 Stars</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>3 Stars</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>2 Stars</div>
+                </div>             
+            </div>
+            <br>
+            <!-- seven -->
+            <h3>Brands</h3>
+            <hr>
+            <div id="firstsort">
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>OYO</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Treebo</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Fab Hotels</div>
+                </div>
+                <div id="leftsort">
+                    <input type="checkbox" name="" id="">
+                    <div>Marriott</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
         <div id="h3">
             <div id="h4">
                 <h2>Populer Hotels Right Now</h2>
@@ -19,10 +206,10 @@
                     <p>1,894 properties</p>
                     <form action="/action_page.php">
                         <label for="cars">Sort by:</label>
-                        <select id="sorthotel">
-                          <option>Tralive Sort</option>
-                          <option>High to Low</option>
-                          <option>Low to High</option>
+                        <select id="sorthotel" onchange="sortItems()">
+                          <option value="all">Tralive Sort</option>
+                          <option value="h2l">High to Low</option>
+                          <option value="l2h">Low to High</option>
                         </select>
                     </form>
                 </div>
@@ -32,6 +219,42 @@
             </div>
         </div>
     </div>
+    <div id="footer">
+        <div>
+            <div id="leftfooter">
+                <img src="https://tralive-web.netlify.app/static/media/Tralive.9c6b7461ee98783f592e.png"/>
+                <div>
+                    <p>© 2022 Tripadvisor LLC All rights reserved.</p>
+                    <div id="flex1">
+                        <u>Terms of Use</u>
+                        <u>Privacy and Cookie Statement</u>
+                        <u>Cookie consent</u>
+                        <u>Site Map</u>
+                    </div>
+                    <div id="flex2">
+                        <u>How this Site Works</u>
+                        <u>Contact us</u>
+                    </div>
+                </div>
+            </div>
+            <div id="rightfooter">
+                <select >
+                    <option >₹ INR</option>
+                    <option >JP¥ Japanese Yen</option>
+                    <option >$ U.S.Dollors</option>
+                    <option >€ Euros</option>
+                </select>
+                <select >
+                    <option >India</option>
+                    <option >Japan</option>
+                    <option >United states</option>
+                    <option >Canada</option>
+                </select>
+            </div>
+        </div>
+        <p>This is the version of our website addressed to speakers of English in India. If you are a resident of another country or region, please select the appropriate version of Tripadvisor for your country or region in the drop-down menu. more</p>
+    </div>
+    
 </body>
 </html>
 <script src="./Script/hotel.js"></script>

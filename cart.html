@@ -5,21 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./Styles/review.css"/>
-    <script src="https://kit.fontawesome.com/c8503353a1.js" crossorigin="anonymous"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Damion&family=Poppins&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    <!-- <link rel="stylesheet" href="./Styles/hotel.css"/> -->
+    <link rel="stylesheet" href="./Styles/cart.css"/>
 </head>
 <body>
-    <!-- navbar  -->
-
     <nav id="navbar">
         <input type="checkbox" id="check">
         <label for="check" class="checkbtn">
             <i class="fas fa-bars"></i>
         </label>
-        <a id="anchor" href="./index.html">
+        <a href="./index.html">
             <div class="logo">
                 <img src=https://tralive-web.netlify.app/static/media/Tralive.9c6b7461ee98783f592e.png alt="logo" />
                 <p id="logo">
@@ -29,7 +28,7 @@
           </a>
 
         <div class="div3">
-            <input id="search" type="search" placeholder="Search"/>
+            <input id="search" type="search" placeholder="Search" onchange="search()"/>
         </div>
         
         <ul id="div2">
@@ -50,13 +49,33 @@
         </ul>
     </nav>
     <section></section>
-    <div id="review">
-        <p>Share Your Experience,</p>
-        <p>Write a review</p>
+    <div id="maincartpage">
+        <div id="cart"></div>
+        <div id="cartprice">
+            <p>Review Order Details</p>
+            <div class="cartprice">
+                <p>Booking Fee</p>
+                <p>₹0.00</p>
+            </div>
+            <div class="cartprice">
+                <p>Subtotal</p>
+                <p class="total"></p>
+            </div>
+            <div class="cartprice">
+                <p>Total</p>
+                <p class="Total"></p>
+            </div>
+            <p class="pp">No additional taxes & fees</p>
+            <div class="bb">
+                <button>Checkout</button>
+            </div>
+            
+        </div>
     </div>
-    <div id="review1">
-        <input type=text placeholder="What would you like to review ?" />
-    </div>
+    
+    <!-- footer -->
+
+
     <div id="footer">
         <div>
             <div id="leftfooter">
@@ -94,3 +113,4 @@
     </div>
 </body>
 </html>
+<script src="./Script/cart.js"></script>

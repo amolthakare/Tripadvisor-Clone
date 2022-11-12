@@ -1,0 +1,30 @@
+#h1{
+    display: flex;
+    padding: 0% 8%;
+    border:1px solid red;
+}
+#h2{
+    height: 4000px;
+    width: 30%;
+    border: 1px solid green;
+}
+#h3{
+    width: 70%;
+    height: 4000px;
+    border: 1px solid yellow;
+}
+#h4>div{
+    display: flex;
+    justify-content: space-between;
+}
+.h4>p:nth-child(1){
+    font-size: 16px;
+    font-weight: 600;
+}
+#sorthotel{
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    border-color: #e0e0e0;
+    background-color: #fff;
+}

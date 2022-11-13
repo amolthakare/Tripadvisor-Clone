@@ -1,3 +1,8 @@
+var cartArr = JSON.parse(localStorage.getItem("cartItems")) || [];
+console.log(cartArr);
+var cc = cartArr.length;
+document.getElementById("cc").innerText=cc;
+
 // var topExp = [
 //     {
 //         image:"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/65/66/4a/caption.jpg?w=300&h=300&s=1",

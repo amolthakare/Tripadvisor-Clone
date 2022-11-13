@@ -3,7 +3,9 @@
 
 /* navbar */
 /* logo */
-
+#cc{
+  margin-left: -20px;
+}
 #navbar>a{
   text-decoration: none;
 }

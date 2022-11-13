@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout</title>
+    <script src="https://kit.fontawesome.com/c8503353a1.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Damion&family=Poppins&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./Styles/checkout.css"/>
+</head>
+<body>
+
+     <!-- navbar  -->
+
+     <nav id="navbar">
+        <input type="checkbox" id="check">
+        <label for="check" class="checkbtn">
+            <i class="fas fa-bars"></i>
+        </label>
+        <a href="./index.html">
+            <div class="logo">
+                <img src=https://tralive-web.netlify.app/static/media/Tralive.9c6b7461ee98783f592e.png alt="logo" />
+                <p id="logo">
+                  Tra<span class="logo1">live</span>
+                </p>
+            </div>
+          </a>
+
+        <div class="div3">
+            <input id="search" type="search" placeholder="Search"/>
+        </div>
+        
+        <ul id="div2">
+            <i class="fa-solid fa-pencil"></i>
+            <li><a href="review.html">Review</a></li>
+
+            <i class="fa-solid fa-heart"></i>
+            <li><a href="">Trip</a></li>
+
+
+            <i class="fa-solid fa-bell"></i>
+            <li><a href="">Alert</a></li>
+
+            <li id="navbtn"><a id="an" href="./login.html">LogIn</a></li>
+
+            <i class="fa-solid fa-cart-shopping"></i>
+            <li><a href="cart.html">Basket</a></li>
+            <p id="cc">0</p>
+        </ul>
+    </nav>
+    <section></section>
+
+    <div id="checkout">
+        <div id="adress">
+            <p>CHECKOUT</p>
+            <p>Traveller Details</p>
+            <div class="first">
+                <input type="text" placeholder="*First Name" required   >
+                <input type="text" placeholder="*Last Name" required>
+            </div>
+            <div class="second">
+                <input type="text" placeholder="*Street Address">
+                <input type="text" placeholder="Apt, Suite, floor">
+            </div>
+            <div class="third">
+                <input id="zip" type="text" placeholder="Zip Code">
+                <input type="text" placeholder="*City">
+                <input type="text" placeholder="STATE">
+                <input type="text" placeholder="COUNTRY">
+            </div>
+            <div class="four">
+                <input type="text" placeholder="*ENTER MOBILE">
+            </div>
+            <div id="shipping_method">
+                
+                <p>PAYMENT METHOD</p>
+                <img
+                    src="https://res.cloudinary.com/ssenseweb/image/upload/v1535478719/web/checkout/mastercard_borderless_v2.svg">
+                <img
+                    src="https://res.cloudinary.com/ssenseweb/image/upload/v1535478719/web/checkout/visa_borderless_v2.svg">
+                <form>
+                    <input type="checkbox" id="paypal" name="paypal" value="Bike">
+                    <label for="paypal">Pay with debit card or Credit card</label><br>
+                    <input type="checkbox" id="Alipay" name="Alipay" value="Car">
+                    <label for="Alipay">Pay with paypal</label><br>
+                    <input type="checkbox" id="Visa" name="Visa" value="Boat">
+                    <label for="Visa">Pay with Alipay</label><br><br>
+                </form>
+            </div>
+            <div id="card_detail">
+                <p>CARD DETAILS</p>
+                <div class="card">
+                    <input type="text" placeholder="*Card Holder Number" required>
+                    <input type="text" placeholder="*Expiry Date" required >
+                </div>
+                <div class="card">
+                    <input type="text" placeholder="*Card Holder Name" required>
+                    <input type="text" placeholder="Security Code" required>
+                </div>
+            </div>
+
+            <div id="billing">
+                <p>BILLING ADRESS</p>
+                <form id="form">
+                    <input type="checkbox" id="paypal" name="paypal" value="Bike">
+                    <label for="paypal">Same as shipping adress</label><br>
+                </form>
+                <div class="first">
+                    <input type="text" placeholder="*First Name">
+                    <input type="text" placeholder="*Last Name">
+                </div>
+                <div class="second">
+                    <input type="text" placeholder="*Street Address">
+                    <input type="text" placeholder="Apt, Suite, floor">
+                </div>
+                <div class="third">
+                    <input id="zip" type="text" placeholder="Zip Code">
+                    <input type="text" placeholder="*City">
+                    <input type="text" placeholder="STATE">
+                    <input type="text" placeholder="COUNTRY">
+                </div>
+                <div class="four">
+                    <input type="text" placeholder="*ENTER MOBILE">
+                </div>
+            </div>
+            <div id="term">
+                <a href="">Terms and Conditions</a>
+                <a href="">Privacy</a>
+            </div>
+        </div>
+        <div id="append">
+            <p>Summary</p>
+            <div id="product"></div>
+            <div id="coudiv">
+                <input id="descountCupon" type="text" placeholder="Have a coupon code">
+                <button id="cupanButton" >Add</button>
+            </div>
+            <hr>
+            <div id="summ">
+                <div>
+                    <p>Price</p>
+                    <div class="total" style="margin-top:15px"></div>
+                </div>
+                <div>
+                    <p>Discount</p>
+                    <div id="ttotal" style="margin-top:15px"></div>
+                </div>
+                <div>
+                    <p>Shipping Total</p>
+                    <p>(Free)</p>
+                </div>
+                <hr>
+                <div>
+                    <p>Final Price </p>
+                    <div id="tt" class="Total" style="margin-top:15px"></div>
+                </div>
+            </div>
+            <p style="margin-top:30px;margin-bottom:-10px">Important Notice</p>
+            <p>Our prices do not include Duty and VAT. Please consult your country/region’s customs legislation for more information about potential additional charges.</p>
+            <button id="butt"><a href="thankyou.html" style="text-decoration: none; color: white;">Place Order</a></button>
+        </div>
+    </div>
+
+    <div id="footer">
+        <div>
+            <div id="leftfooter">
+                <img src="https://tralive-web.netlify.app/static/media/Tralive.9c6b7461ee98783f592e.png"/>
+                <div>
+                    <p>© 2022 Tripadvisor LLC All rights reserved.</p>
+                    <div id="flex1">
+                        <u>Terms of Use</u>
+                        <u>Privacy and Cookie Statement</u>
+                        <u>Cookie consent</u>
+                        <u>Site Map</u>
+                    </div>
+                    <div id="flex2">
+                        <u>How this Site Works</u>
+                        <u>Contact us</u>
+                    </div>
+                </div>
+            </div>
+            <div id="rightfooter">
+                <select >
+                    <option >₹ INR</option>
+                    <option >JP¥ Japanese Yen</option>
+                    <option >$ U.S.Dollors</option>
+                    <option >€ Euros</option>
+                </select>
+                <select >
+                    <option >India</option>
+                    <option >Japan</option>
+                    <option >United states</option>
+                    <option >Canada</option>
+                </select>
+            </div>
+        </div>
+        <p>This is the version of our website addressed to speakers of English in India. If you are a resident of another country or region, please select the appropriate version of Tripadvisor for your country or region in the drop-down menu. more</p>
+    </div>
+</body>
+</html>
+<script src="./Script/checkout.js">
+    
+</script>

@@ -9,7 +9,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Damion&family=Poppins&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-    <!-- <link rel="stylesheet" href="./Styles/hotel.css"/> -->
     <link rel="stylesheet" href="./Styles/cart.css"/>
 </head>
 <body>
@@ -18,7 +17,7 @@
         <label for="check" class="checkbtn">
             <i class="fas fa-bars"></i>
         </label>
-        <a href="./index.html">
+        <a id="anchor" href="./index.html">
             <div class="logo">
                 <img src=https://tralive-web.netlify.app/static/media/Tralive.9c6b7461ee98783f592e.png alt="logo" />
                 <p id="logo">
@@ -28,7 +27,7 @@
           </a>
 
         <div class="div3">
-            <input id="search" type="search" placeholder="Search" onchange="search()"/>
+            <input id="search" type="search" placeholder="Search"/>
         </div>
         
         <ul id="div2">
@@ -36,16 +35,17 @@
             <li><a href="review.html">Review</a></li>
 
             <i class="fa-solid fa-heart"></i>
-            <li><a href="trip.html">Trip</a></li>
+            <li><a href="">Trip</a></li>
 
 
             <i class="fa-solid fa-bell"></i>
-            <li><a href="alert.html">Alert</a></li>
+            <li><a href="">Alert</a></li>
 
             <li id="navbtn"><a id="an" href="./login.html">LogIn</a></li>
 
             <i class="fa-solid fa-cart-shopping"></i>
             <li><a href="cart.html">Basket</a></li>
+            <p id="cc">0</p>
         </ul>
     </nav>
     <section></section>
@@ -67,7 +67,7 @@
             </div>
             <p class="pp">No additional taxes & fees</p>
             <div class="bb">
-                <button>Checkout</button>
+                <button onclick="checkout()">Checkout</button>
             </div>
             
         </div>
@@ -114,3 +114,8 @@
 </body>
 </html>
 <script src="./Script/cart.js"></script>
+<script>
+    function checkout(){
+        window.location = "checkout.html"
+    }
+</script>0

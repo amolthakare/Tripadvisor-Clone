@@ -6,6 +6,9 @@
 #navbar>a{
   text-decoration: none;
 }
+#cc{
+  margin-left: -20px;
+}
 #logo{
   font-size: 30px;
   font-weight: bold;

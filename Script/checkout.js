@@ -1,11 +1,12 @@
 var cartArr = JSON.parse(localStorage.getItem("cartItems")) || [];
 console.log(cartArr);
+var cartArr = JSON.parse(localStorage.getItem("cartItems")) || [];
+console.log(cartArr);
 var cc = cartArr.length;
 document.getElementById("cc").innerText=cc;
-
 function displayData(cartArr) {
 
-    document.querySelector("#cart").innerHTML="";
+    document.querySelector("#product").innerHTML="";
 
     cartArr.map(function (elem , index , array){
 
@@ -123,7 +124,7 @@ function displayData(cartArr) {
     datadiv.append(name,bunchdiv);
 
     maindiv.append(imgdiv,datadiv);
-        document.querySelector("#cart").append(maindiv);
+        document.querySelector("#product").append(maindiv);
 
     })
 }
@@ -148,4 +149,35 @@ function deleteItem(index){
     localStorage.setItem("cartItems",JSON.stringify(cartArr));
     displayData(cartArr);
     Total();
+}
+
+
+
+// coupon
+
+document.querySelector("#cupanButton").addEventListener("click",applyPromo);
+    
+function applyPromo()
+ {
+    var promo=document.querySelector("#descountCupon").value;
+        if(promo=='masai30')
+        {
+            var total=cartArr.reduce(function(acc,elem,index){
+                return (acc + (elem.price * elem.quant)*30)/100;
+            },0);
+          
+        }
+        else{
+            var total=cartArr.reduce(function(acc,elem,index){
+                return acc + (elem.price * elem.quant);
+            },0);
+        }
+        var rem=cartArr.reduce(function(acc,elem,index){
+            return acc + (elem.price * elem.quant);
+        },0);
+
+        var out = Math.floor(total);
+        var tt= rem-out;
+        document.getElementById("ttotal").innerText="₹"+out;
+        document.getElementById("tt").innerText="₹"+tt;
 }

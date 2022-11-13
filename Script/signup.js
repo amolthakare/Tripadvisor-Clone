@@ -26,3 +26,8 @@ function formSubmit(event){
         return;
     }
 }
+
+var cartArr = JSON.parse(localStorage.getItem("cartItems")) || [];
+console.log(cartArr);
+var cc = cartArr.length;
+document.getElementById("cc").innerText=cc;
